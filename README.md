@@ -12,6 +12,7 @@ to check everything in proper condition run:
 --------------------------------------------
 
 python manage.py migrate
+
 python manage.py makemigrations
 
 run application:
