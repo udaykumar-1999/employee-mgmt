@@ -24,4 +24,8 @@ to test api endpoint:
 ---------------------
 python manage.py test home
 
+to test api endpoint in postman:
+-------------------------------
+import home/tests/employee-mgmt.postman_collection.json file in postman to look into CRUD endpoints
+
 
